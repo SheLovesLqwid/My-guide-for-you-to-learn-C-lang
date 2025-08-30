@@ -6,19 +6,6 @@ Accepting user input is one of the most fundamental tasks in C programming. It a
 
 ---
 
-## Table of Contents
-
-1. [Basic Input with `scanf`](#basic-input-with-scanf)
-2. [Common Pitfalls with `scanf`](#common-pitfalls-with-scanf)
-3. [Using `fgets` for Strings](#using-fgets-for-strings)
-4. [Removing Trailing Newlines from Strings](#removing-trailing-newlines-from-strings)
-5. [Mixing `scanf` and `fgets`](#mixing-scanf-and-fgets)
-6. [Character Input](#character-input)
-7. [Real-world Examples](#real-world-examples)
-8. [Tips for Robust Input Handling](#tips-for-robust-input-handling)
-
----
-
 ## 1️⃣ Basic Input with `scanf`
 
 The **`scanf`** function is the most common way to get input from the user in C.
