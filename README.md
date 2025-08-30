@@ -36,22 +36,6 @@ I will be actively adding new content over time — so stay tuned!
 
 ---
 
-## 🗂️ Current Contents
-
-- [x] Variables in C (detailed beginner to advanced explanation)  
-- [ ] Data Types  
-- [ ] Operators  
-- [ ] Control Structures (if, loops, switch)  
-- [ ] Functions  
-- [ ] Arrays & Strings  
-- [ ] Pointers  
-- [ ] Structs & Unions  
-- [ ] File Handling  
-- [ ] Memory Management (malloc, free, calloc, realloc)  
-- [ ] Advanced Topics (bitwise ops, optimization, etc.)  
-
----
-
 ## 🚀 How to Contribute
 
 Want to help make this guide even better? Here’s how:  
